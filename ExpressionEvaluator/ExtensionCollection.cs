@@ -1,6 +1,6 @@
 ﻿// -----------------------------------------------------------------------
 // <copyright file="ExtensionCollection.cs" company="Todd Aspeotis">
-//  Copyright 2012, Todd Aspeotis
+//  Copyright 2012 Todd Aspeotis
 // </copyright>
 // -----------------------------------------------------------------------
 
