@@ -1,0 +1,3 @@
+[submodule "SaneCop"]
+	path = SaneCop
+	url = git://github.com/taspeotis/SaneCop.git
